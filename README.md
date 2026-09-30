@@ -1,3 +1,11 @@
+# Azure Arc Jumpstart
+
+[English](README.md) | [日本語](README.ja.md)
+
+Azure Arc Jumpstart documentation and deployment scenarios. The repository includes Arc-enabled servers, Kubernetes, data services, and related Jumpstart environments.
+
+---
+
 # Azure Arc Jumpstart documentation
 
 If you are looking to explore the Jumpstart documentation, please go to the documentation website:
